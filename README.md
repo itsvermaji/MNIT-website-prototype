@@ -2,7 +2,7 @@
 ## About The Project
 
 This project was designed in a Web Design competition organized by the MNIT Jaipur. It was a team project comprised of 3 members. 
-_All the files are moved to the google drive [link](https://drive.google.com/drive/folders/1_C07togn4CZHdVGtQkLmxs51ic5cRbG6?usp=sharing)_
+_[All the files are moved to the google drive link](https://drive.google.com/drive/folders/1_C07togn4CZHdVGtQkLmxs51ic5cRbG6?usp=sharing)_
 
 
 Key Features:
